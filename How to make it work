@@ -1,0 +1,5 @@
+1. Download the python file from github and save it on your own PC inside a folder
+2. Open the folder using Visual studio Code or any IDE you work on
+3. You type the below command in terminal :
+	Combiner.py NameofPDF1 NameofPDF2    
+ 4. You can merge any number of files like this 
